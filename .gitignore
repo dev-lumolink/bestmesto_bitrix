@@ -1,0 +1,12 @@
+.idea
+/.htaccess
+/bitrix
+/upload
+/local/php_interface/constants.php
+/*.txt
+*.log
+*.xml
+/*.sql
+Thumbs.db
+.DS_Store
+._.DS_Store
